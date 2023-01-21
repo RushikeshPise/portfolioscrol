@@ -30,7 +30,7 @@ const NavBar = () => {
 
   return (
     <div className="flex justify-between items-center w-full h-20 px-4 text-white bg-black fixed">
-      <div>Welcome</div>
+      <div>Rushikesh Pise</div>
       <ul className="hidden md:flex">
         {links.map(({ id, link }) => (
           <li
