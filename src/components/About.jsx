@@ -14,10 +14,10 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-12 ">
-        I am a Full-Stack developer based in Hyderabad(India). I have completed my graduation in 
-        Computer Science Engineering from NGIT,Osmania University-2022. 
-        I am very passionate Web Developer and about improving my coding skills &
-        developing applications, websites.
+        I'm  Rushikesh, currently am working as a Java-FSE at Cognizant based in Hyderabad (India).
+        I have graduated as Computer Science Engineer from NGIT, Osmania University-2022.<br /><br />
+        My academic background, coupled with my passion for technology and web development, has equipped me with 
+        the skills and knowledge necessary to excel me in full stack web Web Development.
         </p>
 
         <br />
