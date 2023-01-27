@@ -3,6 +3,7 @@ import snake from "../assets/portfolio/snake.png";
 import spotify from "../assets/portfolio/spotify.png";
 import weatherInfo from "../assets/portfolio/weatherInfo.png";
 import numberGame from "../assets/portfolio/numbergame.png";
+import RestaurentApp from "../assets/portfolio/restaurent.png";
 
 const Portfolio = () => {
   const portfolios = [
@@ -27,6 +28,11 @@ const Portfolio = () => {
       id: 4,
       src: numberGame,
       code: "https://github.com/RushikeshPise/Number-Guessing-Game--Java",
+    },
+    {
+      id: 4,
+      src: RestaurentApp,
+      code: "https://github.com/RushikeshPise/RestaurantApp",
     },
   ];
 
