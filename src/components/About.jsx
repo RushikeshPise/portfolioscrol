@@ -23,9 +23,9 @@ const About = () => {
 <p>Cognizant Technology Solutions: As a Programmer Analyst, I work extensively with Java, Spring Boot, and modern frontend frameworks to create seamless user experiences and efficient backend services.<br></br>
 
 Palnesto Business Solutions: During my internship as a Frontend Web Developer, I honed my skills in UI/UX and learned the value of responsive, accessible design.</br>
-</br>
-
+<p></p>
 💼 My expertise in full-stack development allows me to bridge the gap between frontend and backend, delivering complete, cohesive solutions.<br></br>
+<p></p>
 
 💡 I’m driven by continuous learning and am currently focused on expanding my knowledge in Java 8, Spring Boot, React, Angular, and microservices architecture.</p>
         </p>
