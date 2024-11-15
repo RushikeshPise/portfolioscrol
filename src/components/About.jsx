@@ -14,10 +14,19 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-12 ">
-        I'm  Rushikesh, currently am working as a Java-FSE at Cognizant based in Chennai (India).
-        I have graduated as Computer Science Engineer from NGIT, Osmania University-2022.<br /><br />
-        My academic background, coupled with my passion for technology and web development, has equipped me with 
-        the skills and knowledge necessary to excel me in full stack web Web Development.
+       🚀 Java Full-Stack Engineer | Programmer Analyst @ Cognizant | Passionate About Technology & Innovation <br></br>
+
+<p>👨‍💻 Currently working as a Java Full-Stack Engineer at Cognizant Technology Solutions, I specialize in building robust backend systems and user-centric frontend applications. My journey in tech began with a solid foundation in software engineering from Neil Gogte Institute of Technology (NGIT), Hyderabad, affiliated with Osmania University.</p><br></br>
+
+🌟 Professional Experience:<br></br>
+
+<p>Cognizant Technology Solutions: As a Programmer Analyst, I work extensively with Java, Spring Boot, and modern frontend frameworks to create seamless user experiences and efficient backend services.<br></br>
+
+Palnesto Business Solutions: During my internship as a Frontend Web Developer, I honed my skills in UI/UX and learned the value of responsive, accessible design.<br></br>
+
+💼 My expertise in full-stack development allows me to bridge the gap between frontend and backend, delivering complete, cohesive solutions.<br></br>
+
+💡 I’m driven by continuous learning and am currently focused on expanding my knowledge in Java 8, Spring Boot, React, Angular, and microservices architecture.</p>
         </p>
 
         <br />
