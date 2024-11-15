@@ -16,13 +16,14 @@ const About = () => {
         <p className="text-xl mt-12 ">
        🚀 Java Full-Stack Engineer | Programmer Analyst @ Cognizant | Passionate About Technology & Innovation <br></br>
 
-<p>👨‍💻 Currently working as a Java Full-Stack Engineer at Cognizant Technology Solutions, I specialize in building robust backend systems and user-centric frontend applications. My journey in tech began with a solid foundation in software engineering from Neil Gogte Institute of Technology (NGIT), Hyderabad, affiliated with Osmania University.</p><br></br>
+<p>👨‍💻 Currently working as a Java Full-Stack Engineer at Cognizant Technology Solutions, I specialize in building robust backend systems and user-centric frontend applications. My journey in tech began with a solid foundation in software engineering from Neil Gogte Institute of Technology (NGIT), Hyderabad, affiliated with Osmania University.</p></br>
 
-🌟 Professional Experience:<br></br>
+<h5>🌟 Professional Experience:</h5></br>
 
 <p>Cognizant Technology Solutions: As a Programmer Analyst, I work extensively with Java, Spring Boot, and modern frontend frameworks to create seamless user experiences and efficient backend services.<br></br>
 
-Palnesto Business Solutions: During my internship as a Frontend Web Developer, I honed my skills in UI/UX and learned the value of responsive, accessible design.<br></br>
+Palnesto Business Solutions: During my internship as a Frontend Web Developer, I honed my skills in UI/UX and learned the value of responsive, accessible design.</br>
+</br>
 
 💼 My expertise in full-stack development allows me to bridge the gap between frontend and backend, delivering complete, cohesive solutions.<br></br>
 
@@ -30,10 +31,6 @@ Palnesto Business Solutions: During my internship as a Frontend Web Developer, I
         </p>
 
         <br />
-
-        <p className="text-xl">
-           Apart from this, In free time am a Nature Photographer, who would like to click the moments and share with the world !
-        </p>
       </div>
     </div>
   );
