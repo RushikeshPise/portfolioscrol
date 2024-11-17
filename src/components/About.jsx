@@ -14,7 +14,7 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-12 ">
-       🚀 Java Full-Stack Engineer | Programmer Analyst @ Cognizant | Passionate About Technology & Innovation <br></br>
+       🚀 Java Full-Stack Engineer | Programmer Analyst @ Cognizant | Passionate About Technology & Innovation</p></br>
 
 <p>👨‍💻 Currently working as a Java Full-Stack Engineer at Cognizant Technology Solutions, I specialize in building robust backend systems and user-centric frontend applications. My journey in tech began with a solid foundation in software engineering from Neil Gogte Institute of Technology (NGIT), Hyderabad, affiliated with Osmania University.</p></br>
 
